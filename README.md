@@ -3,7 +3,10 @@
 A Bookmarklet that converts all your text to, “2.2 when?” As you type. Useful if you want to spam RobTop but don’t actually want to take the time to type it out.
 
 # How to change what it types out
+Your probably thinking, "I want it to type something else!". Welp, your in luck!
 
+- Fork or Clone the repository
+- Follow the instructions on Line #3 in the file, 22when.js
 
 # Download
 
