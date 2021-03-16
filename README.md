@@ -2,14 +2,13 @@
 
 ![E9D31CE5-39C3-4435-A09E-6D6A42A95FEB](https://user-images.githubusercontent.com/78216950/110800984-c3da8180-824a-11eb-9577-b2e94ec66184.gif)
 # Bookmarklet-For-Trolling
-A Bookmarklet that converts all your text to, “2.2 when?” As you type. Useful if you want to spam RobTop but don’t actually want to take the time to type it out.
+A Bookmarklet that converts all your text to something else As you type. Useful for trolling. :)
 
-# How to change what it types out
-Your probably thinking, "I want it to type something else!". Welp, your in luck!
+# Instructions and Download
 
 - Fork or Clone the repository
-- Follow the instructions on Line #3 in the file, 22when.js
-- When your finished
+- Follow the instructions on Line #3 in the file, Bookmarklet.js
+- When your finished, 
 
 # Download
 
