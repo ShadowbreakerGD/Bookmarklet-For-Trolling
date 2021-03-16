@@ -1,5 +1,5 @@
 (function(){
-	var TEXT = '2.2 when? ';
+	var TEXT = 'Change this text!';
 	// if you want it to type out something else, change the variable name above to what you want it to type!
 	Array.prototype.slice.call(document.querySelectorAll('input[type=text],textarea')).map(function(el){
 		el.onkeypress=function(evt){
