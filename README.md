@@ -8,7 +8,9 @@ A Bookmarklet that converts all your text to something else As you type. Useful 
 
 - Fork or Clone the repository
 - Follow the instructions on Line #3 in the file, Bookmarklet.js
-- When your finished, 
+- When your finished, Copy the javascript code to your clipboard and go [here](https://mrcoles.com/bookmarklet/)
+- Delete the text in the input box that says, "alert('test!')"
+- 
 
 # Download
 
