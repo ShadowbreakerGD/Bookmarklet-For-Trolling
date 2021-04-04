@@ -1,4 +1,4 @@
-(function(){
+javascript:(function(){
 	var TEXT = 'Change this text!';
 	Array.prototype.slice.call(document.querySelectorAll('input[type=text],textarea')).map(function(el){
 		el.onkeypress=function(evt){
